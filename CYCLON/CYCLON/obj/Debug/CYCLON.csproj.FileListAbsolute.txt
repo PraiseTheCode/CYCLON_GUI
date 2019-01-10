@@ -1,0 +1,72 @@
+D:\KR\CYCLON_GUI\CYCLON\CYCLON\obj\Debug\ResolveAssemblyReference.cache
+D:\KR\CYCLON_GUI\CYCLON\CYCLON\obj\Debug\CYCLON.Form1.resources
+D:\KR\CYCLON_GUI\CYCLON\CYCLON\obj\Debug\CYCLON.Properties.Resources.resources
+D:\KR\CYCLON_GUI\CYCLON\CYCLON\obj\Debug\CYCLON.csproj.GenerateResource.Cache
+D:\KR\CYCLON_GUI\CYCLON\CYCLON\bin\Debug\CYCLON.exe
+D:\KR\CYCLON_GUI\CYCLON\CYCLON\bin\Debug\CYCLON.pdb
+D:\KR\CYCLON_GUI\CYCLON\CYCLON\obj\Debug\CYCLON.exe
+D:\KR\CYCLON_GUI\CYCLON\CYCLON\obj\Debug\CYCLON.pdb
+D:\KR\CYCLON_GUI - копия\CYCLON\CYCLON\obj\Debug\CYCLON.exe
+D:\KR\CYCLON_GUI - копия\CYCLON\CYCLON\obj\Debug\CYCLON.pdb
+D:\KR\CYCLON_GUI - копия\CYCLON\CYCLON\bin\Debug\CYCLON.exe
+D:\KR\CYCLON_GUI - копия\CYCLON\CYCLON\bin\Debug\CYCLON.pdb
+D:\KR\CYCLON_GUI - копия\CYCLON\CYCLON\obj\Debug\ResolveAssemblyReference.cache
+D:\KR\CYCLON_GUI - копия\CYCLON\CYCLON\obj\Debug\CYCLON.Form1.resources
+D:\KR\CYCLON_GUI - копия\CYCLON\CYCLON\obj\Debug\CYCLON.Properties.Resources.resources
+D:\KR\CYCLON_GUI - копия\CYCLON\CYCLON\obj\Debug\CYCLON.csproj.GenerateResource.Cache
+D:\KR\CYCLON_GUI - копия - копия\CYCLON\CYCLON\obj\Debug\CYCLON.exe
+D:\KR\CYCLON_GUI - копия - копия\CYCLON\CYCLON\obj\Debug\CYCLON.pdb
+D:\KR\CYCLON_GUI - копия - копия\CYCLON\CYCLON\bin\Debug\CYCLON.exe
+D:\KR\CYCLON_GUI - копия - копия\CYCLON\CYCLON\bin\Debug\CYCLON.pdb
+D:\KR\CYCLON_GUI - копия - копия\CYCLON\CYCLON\obj\Debug\ResolveAssemblyReference.cache
+D:\KR\CYCLON_GUI - копия - копия\CYCLON\CYCLON\obj\Debug\CYCLON.Form1.resources
+D:\KR\CYCLON_GUI - копия - копия\CYCLON\CYCLON\obj\Debug\CYCLON.Properties.Resources.resources
+D:\KR\CYCLON_GUI - копия - копия\CYCLON\CYCLON\obj\Debug\CYCLON.csproj.GenerateResource.Cache
+D:\KR\CYCLON_GUI - копия - копия - копия\CYCLON\CYCLON\obj\Debug\CYCLON.exe
+D:\KR\CYCLON_GUI - копия - копия - копия\CYCLON\CYCLON\obj\Debug\CYCLON.pdb
+D:\KR\CYCLON_GUI - копия - копия - копия\CYCLON\CYCLON\obj\Debug\ResolveAssemblyReference.cache
+D:\KR\CYCLON_GUI - копия - копия - копия\CYCLON\CYCLON\obj\Debug\CYCLON.Form1.resources
+D:\KR\CYCLON_GUI - копия - копия - копия\CYCLON\CYCLON\obj\Debug\CYCLON.Properties.Resources.resources
+D:\KR\CYCLON_GUI - копия - копия - копия\CYCLON\CYCLON\obj\Debug\CYCLON.csproj.GenerateResource.Cache
+D:\KR\CYCLON_GUI - копия - копия - копия\CYCLON\CYCLON\bin\Debug\CYCLON.exe
+D:\KR\CYCLON_GUI - копия - копия - копия\CYCLON\CYCLON\bin\Debug\CYCLON.pdb
+E:\CYCLON_GUI\CYCLON\CYCLON\obj\Debug\CYCLON.exe
+E:\CYCLON_GUI\CYCLON\CYCLON\obj\Debug\CYCLON.pdb
+E:\CYCLON_GUI\CYCLON\CYCLON\bin\Debug\CYCLON.exe
+E:\CYCLON_GUI\CYCLON\CYCLON\bin\Debug\CYCLON.pdb
+E:\CYCLON_GUI\CYCLON\CYCLON\obj\Debug\ResolveAssemblyReference.cache
+E:\CYCLON_GUI\CYCLON\CYCLON\obj\Debug\CYCLON.Form1.resources
+E:\CYCLON_GUI\CYCLON\CYCLON\obj\Debug\CYCLON.Properties.Resources.resources
+E:\CYCLON_GUI\CYCLON\CYCLON\obj\Debug\CYCLON.csproj.GenerateResource.Cache
+F:\CYCLON_GUI\CYCLON\CYCLON\obj\Debug\CYCLON.exe
+F:\CYCLON_GUI\CYCLON\CYCLON\obj\Debug\CYCLON.pdb
+F:\CYCLON_GUI\CYCLON\CYCLON\bin\Debug\CYCLON.exe
+F:\CYCLON_GUI\CYCLON\CYCLON\bin\Debug\CYCLON.pdb
+F:\CYCLON_GUI\CYCLON\CYCLON\obj\Debug\ResolveAssemblyReference.cache
+F:\CYCLON_GUI\CYCLON\CYCLON\obj\Debug\CYCLON.Form1.resources
+F:\CYCLON_GUI\CYCLON\CYCLON\obj\Debug\CYCLON.Properties.Resources.resources
+F:\CYCLON_GUI\CYCLON\CYCLON\obj\Debug\CYCLON.csproj.GenerateResource.Cache
+D:\KR\CYCLON_GUI STD\CYCLON\CYCLON\obj\Debug\CYCLON.exe
+D:\KR\CYCLON_GUI STD\CYCLON\CYCLON\obj\Debug\CYCLON.pdb
+D:\KR\CYCLON_GUI STD\CYCLON\CYCLON\bin\Debug\CYCLON.exe
+D:\KR\CYCLON_GUI STD\CYCLON\CYCLON\bin\Debug\CYCLON.pdb
+D:\KR\CYCLON_GUI STD\CYCLON\CYCLON\obj\Debug\ResolveAssemblyReference.cache
+D:\KR\CYCLON_GUI STD\CYCLON\CYCLON\obj\Debug\CYCLON.Form1.resources
+D:\KR\CYCLON_GUI STD\CYCLON\CYCLON\obj\Debug\CYCLON.Properties.Resources.resources
+D:\KR\CYCLON_GUI STD\CYCLON\CYCLON\obj\Debug\CYCLON.csproj.GenerateResource.Cache
+D:\KR\CYCLON_GUI FIN\CYCLON\CYCLON\obj\Debug\CYCLON.exe
+D:\KR\CYCLON_GUI FIN\CYCLON\CYCLON\obj\Debug\CYCLON.pdb
+D:\KR\CYCLON_GUI FIN\CYCLON\CYCLON\bin\Debug\CYCLON.exe
+D:\KR\CYCLON_GUI FIN\CYCLON\CYCLON\bin\Debug\CYCLON.pdb
+D:\KR\CYCLON_GUI FIN\CYCLON\CYCLON\obj\Debug\ResolveAssemblyReference.cache
+D:\KR\CYCLON_GUI FIN\CYCLON\CYCLON\obj\Debug\CYCLON.Form1.resources
+D:\KR\CYCLON_GUI FIN\CYCLON\CYCLON\obj\Debug\CYCLON.Properties.Resources.resources
+D:\KR\CYCLON_GUI FIN\CYCLON\CYCLON\obj\Debug\CYCLON.csproj.GenerateResource.Cache
+D:\AstroDpt\KR\CYCLON_GUI FIN\CYCLON\CYCLON\bin\Debug\CYCLON.exe
+D:\AstroDpt\KR\CYCLON_GUI FIN\CYCLON\CYCLON\bin\Debug\CYCLON.pdb
+D:\AstroDpt\KR\CYCLON_GUI FIN\CYCLON\CYCLON\obj\Debug\CYCLON.csprojResolveAssemblyReference.cache
+D:\AstroDpt\KR\CYCLON_GUI FIN\CYCLON\CYCLON\obj\Debug\CYCLON.Form1.resources
+D:\AstroDpt\KR\CYCLON_GUI FIN\CYCLON\CYCLON\obj\Debug\CYCLON.Properties.Resources.resources
+D:\AstroDpt\KR\CYCLON_GUI FIN\CYCLON\CYCLON\obj\Debug\CYCLON.csproj.GenerateResource.Cache
+D:\AstroDpt\KR\CYCLON_GUI FIN\CYCLON\CYCLON\obj\Debug\CYCLON.exe
+D:\AstroDpt\KR\CYCLON_GUI FIN\CYCLON\CYCLON\obj\Debug\CYCLON.pdb
